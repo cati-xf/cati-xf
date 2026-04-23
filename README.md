@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Catarina Xie Freire, and I'm a 2nd year MSc student in Computer Science & Engineering at Instituto Superior Técnico, specializing in Artifical Intelligence.
+
+I am currently working on my thesis **"Unified Platform for Multi-Modal Data Anonymization"** - a privacy platform for European Portuguese that combines a hybrid Named Entity Recognitio pipeline for text anonymization with Voice conversion and Automatic Speech Recognition driven spoken content redaction for audio, offering multiple anonymization modes across both modalities, all running fully locally.
+
+Feel free to check out some of the projects I've worked on, such as ML course projects, an open-source contribution, and a website developed for a research project. Reach out if anything catches your interest!
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/catarina-xie-freire/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:catarinaxfreire@gmail.com)
+
 <!--
 **cati-xf/cati-xf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
